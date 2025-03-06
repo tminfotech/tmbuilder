@@ -1,6 +1,7 @@
 {
     "name": "tminfotech/tmbuilder",
     "description": "TM Content Builder",
+    "type": "library",
     "autoload": {
       "psr-4": {
         "TMInfotech\\TMBuilder\\": "src/"
