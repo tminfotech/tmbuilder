@@ -6,7 +6,21 @@
         "TMInfotech\\TMBuilder\\": "src/"
       }
     },
-    "require": {
-        "illuminate/support": "^12.1"
-    }
+  
+
+    "license": "MIT",    
+    "require": {        
+       "php": "^8.1",     
+       "illuminate/support": "^12.1"
+      
+    },    
+    "require-dev": {    
+       
+    },    
+    "config": {    
+      
+    },    
+   
+        "minimum-stability": "stable"
+    
   }
