@@ -1,0 +1,12 @@
+{
+    "name": "tminfotech/tmbuilder",
+    "description": "TM Content Builder",
+    "autoload": {
+      "psr-4": {
+        "TMInfotech\\TMBuilder\\": "src/"
+      }
+    },
+    "require": {
+        "illuminate/support": "^12.1"
+    }
+  }
